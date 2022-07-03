@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/gosling-lang/gosling.js/raw/master/logo/logo-1x.png" height="200">
+<img src="https://github.com/gosling-lang/gosling-website/blob/main/static/img/gosling-dark.png" height="200">
 </p>
 
 <h1 align="center">
