@@ -9,7 +9,7 @@ Gosling
 The data visualization grammar of scalable linked interactive nucleotide graphics.
 <p>
 <div align="center">
-  <a href="https://github.com/gosling-lang/gos">Learn</a> —
+  <a href="https://github.com/gosling-lang/gosling-tutorial">Learn</a> —
   <a href="http://gosling-lang.org/docs/">Documentation</a> —
   <a href="https://gosling.js.org/">Online Editor</a>
 </div>
